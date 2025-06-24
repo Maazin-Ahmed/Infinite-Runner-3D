@@ -9,8 +9,7 @@ Infinite Runner 3D is an endless runner game where players navigate a dynamic 3D
 - Smooth 3D character movement and animations.  
 - Collectibles to boost scores and unlock rewards.  
 - Dynamic difficulty scaling to keep gameplay challenging.  
-- Intuitive user interface for score and health tracking.
-
+- Intuitive user interface for score and health tracking
 
 #### **5. Gameplay Instructions**  
 ## How to Play  
