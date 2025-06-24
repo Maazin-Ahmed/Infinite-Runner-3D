@@ -1,5 +1,5 @@
 # Infinite Runner 3D
-A thrilling 3D endless runner game developed in Unity.
+A thrilling 3D endless runner game developed in Unity using C#.
 
 ## Description  
 Infinite Runner 3D is an endless runner game where players navigate a dynamic 3D environment, dodging obstacles and collecting rewards. The game progressively becomes more challenging, providing an engaging experience for players of all skill levels.
